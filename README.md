@@ -1,13 +1,12 @@
 # EJB
 
-### Gestion des villes
+## ==> Gestion des villes
 
 
 #### Ajout d'une ville
 ![ajout](./assets/img1.png)
 ##### Voilà la ville est bien ajoutée
 ![ajout](./assets/img2.png)
-
 
 
 #### Suppression d'une ville
@@ -19,7 +18,7 @@
 #### Rechercher par nom du ville
 ![update](./assets/img5.png)
 
-### Gestion des hôtels
+## ==> Gestion des hôtels
 
 
 #### Ajout d'un hôtel
